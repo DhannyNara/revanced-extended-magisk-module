@@ -1,6 +1,6 @@
 {
-  "version": "v7.16.53 (20220980)",
-  "versionCode": 20220980,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220980/music-revanced-extended-magisk-v7.16.53-arm64-v8a.zip",
+  "version": "v8.02.53 (20250130-try)",
+  "versionCode": 80253230,
+  "zipUrl": "https://github.com/DhannyNara/revanced-extended-magisk-module/releases/download/20250130-try/youtube_music_anddea_magisk_v8_02_53_arm64_v8a_rvx_revanced_extended.zip",
   "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
 }
