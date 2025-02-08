@@ -1,6 +1,6 @@
 {
-  "version": "v20.03.40 (20220980)",
-  "versionCode": 20220980,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220980/youtube-revanced-extended-magisk-v19.16.39-all.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v20.03.40 (patches: v3.4.0-dev.4)",
+  "versionCode": 20250207,
+  "zipUrl": "https://github.com/DhannyNara/revanced-extended-magisk-module/releases/download/20250207-pre/youtube-anddea-revanced-magisk-v20.03.40-all.zip",
+  "changelog": "https://raw.githubusercontent.com/DhannyNara/revanced-extended-magisk-module/update/build-pre.md"
 }
