@@ -1,6 +1,6 @@
 {
-  "version": "v8.02.53 (20250130-try)",
-  "versionCode": 80253230,
-  "zipUrl": "https://github.com/DhannyNara/revanced-extended-magisk-module/releases/download/20250130-try/youtube_music_anddea_magisk_v8_02_53_arm_v7a_rvx_revanced_extended.zip",
+  "version": "v8.03.51 (20250207-pre)",
+  "versionCode": 20250207,
+  "zipUrl": "https://github.com/DhannyNara/revanced-extended-magisk-module/releases/download/20250207-pre/music-anddea-revanced-magisk-v8.03.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/DhannyNara/revanced-extended-magisk-module/update/build.md"
 }
