@@ -1,6 +1,6 @@
 {
-  "version": "v20.02.40 (20250130-try)",
-  "versionCode": 15528716,
-  "zipUrl": "https://github.com/DhannyNara/revanced-extended-magisk-module/releases/download/20250130-try/youtube_rvx_anddea_magisk_v20.02.40_all_patches_v3.3.0-dev.3.zip",
+  "version": "v20.02.40 (patch: v3.4.0-dev.4)",
+  "versionCode":  20250207,
+  "zipUrl": "https://github.com/DhannyNara/revanced-extended-magisk-module/releases/download/20250207/youtube-anddea-revanced-magisk-v20.02.40_all_patches_v3.4.0-dev.4.zip",
   "changelog": "https://raw.githubusercontent.com/DhannyNara/revanced-extended-magisk-module/update/build.md"
 }
