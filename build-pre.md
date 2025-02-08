@@ -10,6 +10,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 Magisk module also works as KSU / KSU-NEXT module.
 
 [revanced-extended-magisk-module](https://github.com/jDhannyNara/revanced-extended-magisk-module)
+
 Credit:
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 
