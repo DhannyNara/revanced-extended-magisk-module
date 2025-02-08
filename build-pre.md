@@ -6,7 +6,9 @@ Music (arm-v7a): 8.03.51
 YouTube: 20.03.40
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) or [MicroG-RE (recommended)](https://github.com/WSTxda/MicroG-RE) for non-root YouTube and YT Music APKs
+
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced eXtended from Play Store
+
 Magisk module also works as KSU / KSU-NEXT module.
 
 [revanced-extended-magisk-module](https://github.com/jDhannyNara/revanced-extended-magisk-module)
