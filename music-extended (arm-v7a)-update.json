@@ -1,6 +1,6 @@
 {
-  "version": "v8.03.51 (patches: v3.4.0-dev.4)",
+  "version": "v8.03.51 (patches: v3.4.0-dev.5)",
   "versionCode": 20250207,
-  "zipUrl": "https://github.com/DhannyNara/revanced-extended-magisk-module/releases/download/20250207/music-anddea-revanced-magisk-v8.03.51-arm-v7a-patch-v3.4.0-dev.4.zip",
+  "zipUrl": "https://github.com/DhannyNara/revanced-extended-magisk-module/releases/download/20250207/music-anddea-revanced-magisk-v8.03.51-arm-v7a-patch-v3.4.0-dev.5.zip",
   "changelog": "https://raw.githubusercontent.com/DhannyNara/revanced-extended-magisk-module/update/build.md"
 }
