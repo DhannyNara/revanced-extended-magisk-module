@@ -29,7 +29,7 @@ Credit:
 
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar
-Patches: anddea/patches-v3.4.0-dev.4.rvp
+Patches: anddea/patches-v3.4.0-dev.5.rvp
 
 
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.4.0-dev.4) 
